@@ -2,6 +2,7 @@
 layout: default
 title: "Blog"
 ---
+Test Test Test
 
 {% if site.show_excerpts %}
   {% include home.html %}
