@@ -2651,27 +2651,11 @@ input, select, textarea {
 	padding-top: 10px;
 } */
 
-
 #welcome-text {
 	color: #666;
 	font-weight: bold;
-	/* font-family: 'Bree Serif', serif; */
-}
-
-#about-me {
-	background-color: rgb(255, 255, 255, 0.8);
-	padding: 20px 20px;
-	border-radius:20px;
-	/* width: 80%;
-  	text-align: center;
-  	position: relative; */
-	
-}
-/* #welcome-text {
-	color: #666;
-	font-weight: bold;
 	font-size: 4em;
-	line-height: 0.5em;
+	line-height: 1.25em
 	/* font-family: 'Bree Serif', serif; */
 }
 
@@ -2679,10 +2663,9 @@ input, select, textarea {
 #head-para {
 	background-color: rgb(255, 255, 255, 0.8);
 	border-radius:30px;
-	padding: 20px 20px;
 	/* width: 80%;
   	text-align: center;
-  	position: relative; */ */
+  	position: relative; */
 	
 }
 
