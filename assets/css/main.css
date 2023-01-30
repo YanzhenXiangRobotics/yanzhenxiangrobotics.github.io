@@ -2652,7 +2652,7 @@ input, select, textarea {
 
 #welcome-text {
 	color: white;
-	font-weight: bold;
+/* 	font-weight: bold; */
 	font-size: 3em;
 	line-height: 1.25em;
 	/* font-family: 'Bree Serif', serif; */
@@ -2660,6 +2660,7 @@ input, select, textarea {
 
 
 #head-para {
+	margin-bottom: 100px;
 	font-size: 2em;
 	color: white;
 	font-weight: bold;
