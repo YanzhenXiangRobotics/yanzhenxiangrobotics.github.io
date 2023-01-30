@@ -162,6 +162,10 @@ input, select, textarea {
 		font-style: italic;
 	}
 
+	.special-link {
+  		color: blue;
+	}
+
 	a {
 		text-decoration: none;
 		color: inherit;
