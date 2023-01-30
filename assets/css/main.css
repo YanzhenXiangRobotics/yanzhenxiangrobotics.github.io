@@ -2651,12 +2651,13 @@ input, select, textarea {
 } */
 
 #welcome-text {
-	letter-spacing: 100px;
+	letter-spacing: 50px;
 	font-family: Verdana;
 	color: white;
 	font-weight: bold;
 	font-size: 3em;
 	line-height: 1.25em;
+	text-align: center;
 	/* font-family: 'Bree Serif', serif; */
 }
 
@@ -2665,7 +2666,7 @@ input, select, textarea {
 	margin-bottom: 100px;
 	font-size: 2em;
 	color: white;
-/* 	font-weight: bold; */
+	font-weight: bold;
 	line-height: 1.25em;
 /* 	background-color: rgb(255, 255, 255, 0.8); */
 /* 	border-radius:30px; */
