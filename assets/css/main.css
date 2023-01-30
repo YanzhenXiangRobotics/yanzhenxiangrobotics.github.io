@@ -2651,7 +2651,7 @@ input, select, textarea {
 } */
 
 #welcome-text {
-	letter-spacing: 3px;
+	letter-spacing: 10px;
 	font-family: Verdana;
 	color: white;
 	font-weight: bold;
