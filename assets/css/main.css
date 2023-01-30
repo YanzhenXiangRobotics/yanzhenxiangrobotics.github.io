@@ -114,7 +114,6 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		color: #666;
-		line-height: 1.5em;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -127,7 +126,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 4em;
+		font-size: 3em;
 		letter-spacing: -1px;
 	}
 
@@ -2655,8 +2654,11 @@ input, select, textarea {
 #welcome-text {
 	color: #666;
 	font-weight: bold;
+	font-size: 4em;
+	line-height: 1.25em
 	/* font-family: 'Bree Serif', serif; */
 }
+
 
 #head-para {
 	background-color: rgb(255, 255, 255, 0.8);
