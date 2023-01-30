@@ -2651,9 +2651,10 @@ input, select, textarea {
 } */
 
 #welcome-text {
+	letter-spacing: 3px;
 	font-family: Verdana;
 	color: white;
-/* 	font-weight: bold; */
+	font-weight: bold;
 	font-size: 3em;
 	line-height: 1.25em;
 	/* font-family: 'Bree Serif', serif; */
