@@ -2651,7 +2651,23 @@ input, select, textarea {
 	padding-top: 10px;
 } */
 
+
 #welcome-text {
+	color: #666;
+	font-weight: bold;
+	/* font-family: 'Bree Serif', serif; */
+}
+
+#about-me {
+	background-color: rgb(255, 255, 255, 0.8);
+	padding: 20px 20px;
+	border-radius:20px;
+	/* width: 80%;
+  	text-align: center;
+  	position: relative; */
+	
+}
+/* #welcome-text {
 	color: #666;
 	font-weight: bold;
 	font-size: 4em;
@@ -2666,7 +2682,7 @@ input, select, textarea {
 	padding: 20px 20px;
 	/* width: 80%;
   	text-align: center;
-  	position: relative; */
+  	position: relative; */ */
 	
 }
 
